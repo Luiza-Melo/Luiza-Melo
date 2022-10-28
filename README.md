@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Luiza Melo
 
-- 🔭 Atualmente estudo TI
-- 🌱 Aprendendo front-end
-- 😄 Pronouns: ela/dela
-
   <div align="center">
   <a href="https://github.com/Luiza-Melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiza-Melo&show_icons=truet&theme=nightowl&include_all_commits=true&count_private=true"/>
