@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Luiza Melo
 
-- 🔭 Atualmente estudo TI
-- 🌱 Aprendendo front-end
-- 😄 Pronouns: ela/dela
+- 🔭 
+- 🌱 
+- 😄
 
   <div align="center">
   <a href="https://github.com/Luiza-Melo">
